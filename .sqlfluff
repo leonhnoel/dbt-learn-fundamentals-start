@@ -10,3 +10,4 @@ indented_using_on = True
 
 [sqlfluff:layout:type:comma]
 line_position = leading
+spacing_after = touch
